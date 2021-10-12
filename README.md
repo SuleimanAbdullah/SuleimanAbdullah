@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SuleimanAbdullah
-- 👀 I’m interested in Game Development with Unity3D
-- 🌱 I’m currently learning Game DEvelopment with C# in GameDevHQ
-- 💞️ I’m looking to collaborate wiht 3D artist to make my future 3D project
+- 👀 I’m Unity Developer at GameDevHQ 
+- 🌱 I’m currently enroll at Professional Unity Developer at GameDevHQ
 - 📫 How to reach me ...
 
 <!---
